@@ -1,0 +1,12 @@
+payload:
+  - PROCESS-NAME,org.telegram.messenger
+  - PROCESS-NAME,com.samsung.android.aircommandmanager
+  - PROCESS-NAME,com.android.vending
+  - PROCESS-NAME,com.netflix.mediaclient
+  - PROCESS-NAME,com.google.android.apps.googlevoice
+  - PROCESS-NAME,com.google.android.apps.maps
+  - PROCESS-NAME,com.google.android.youtube
+  - PROCESS-NAME,com.sec.spp.push
+  - PROCESS-NAME,com.google.gms
+  - PROCESS-NAME,com.google.gm
+  - PROCESS-NAME,com.spotify.music

@@ -1,0 +1,13 @@
+payload:
+  - PROCESS-NAME,com.xueqiu.android
+  - PROCESS-NAME,com.bilibili.app.in
+  - PROCESS-NAME,com.tencent.tmgp.sgame
+  - PROCESS-NAME,com.galaxy.stock
+  - PROCESS-NAME,com.hexin.plat.android
+  - PROCESS-NAME,com.hundsun.winner.pazq
+  - PROCESS-NAME,com.taobao.taobao
+  - PROCESS-NAME,com.zhihu.android
+  - PROCESS-NAME,com.p1.mobile.putong
+  - PROCESS-NAME,com.tencent.mm
+  - PROCESS-NAME,com.tencent.mobileqq
+  - PROCESS-NAME,com.tencent.wework
