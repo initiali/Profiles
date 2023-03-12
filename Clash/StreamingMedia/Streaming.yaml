@@ -36,6 +36,7 @@ payload:
   - DOMAIN-SUFFIX,soundcloud.com
   # > Spotify
   - PROCESS-NAME,com.spotify.music
+  - USER-AGENT,Spotify*
   - DOMAIN-SUFFIX,pscdn.co
   - DOMAIN-SUFFIX,scdn.co
   - DOMAIN-SUFFIX,spotify.com
